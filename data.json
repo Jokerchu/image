@@ -1,0 +1,127 @@
+{
+  "picBed": {
+    "current": "qiniu",
+    "uploader": "qiniu",
+    "smms": {
+      "token": ""
+    },
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": false
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": false
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": false
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": true
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": true
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": true
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": false
+      }
+    ],
+    "imgur": {
+      "clientId": "9b334df9578125c",
+      "proxy": ""
+    },
+    "github": {
+      "repo": "Jokerchu/image",
+      "branch": "main",
+      "token": "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",
+      "path": "",
+      "customUrl": ""
+    },
+    "qiniu": {
+      "accessKey": "H7eQRLdxwI2ZbW3Rq8bdLQmCmnq05NtFgQiijcwX",
+      "secretKey": "z1nm9IGGyu6_wqcB9BGdZrDwWf5HLxtSm4ID_Elp",
+      "bucket": "madcats-image",
+      "url": "http://image.chuzhenkui.top",
+      "area": "as0",
+      "options": "",
+      "path": "image/",
+      "_configName": "Default",
+      "_id": "882a7655-87f4-46ef-a495-af73d6d86973",
+      "_createdAt": 1705499249076,
+      "_updatedAt": 1705499249076
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "showUpdateTip": false,
+    "autoStart": true,
+    "autoRename": true,
+    "privacyEnsure": true,
+    "uploadNotification": false,
+    "pasteStyle": "Custom",
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    },
+    "isListeningClipboard": false,
+    "manualPageOpen": "browser",
+    "sync": {
+      "type": "github",
+      "username": "Jokerchu",
+      "repo": "image",
+      "branch": "main",
+      "token": "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",
+      "endpoint": "",
+      "proxy": "",
+      "interval": 60
+    }
+  },
+  "needReload": false,
+  "picgoPlugins": {},
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "uploader": {
+    "qiniu": {
+      "configList": [
+        {
+          "accessKey": "H7eQRLdxwI2ZbW3Rq8bdLQmCmnq05NtFgQiijcwX",
+          "secretKey": "z1nm9IGGyu6_wqcB9BGdZrDwWf5HLxtSm4ID_Elp",
+          "bucket": "madcats-image",
+          "url": "http://image.chuzhenkui.top",
+          "area": "as0",
+          "options": "",
+          "path": "image/",
+          "_configName": "Default",
+          "_id": "882a7655-87f4-46ef-a495-af73d6d86973",
+          "_createdAt": 1705499249076,
+          "_updatedAt": 1705499249076
+        }
+      ],
+      "defaultId": "882a7655-87f4-46ef-a495-af73d6d86973"
+    }
+  }
+}
